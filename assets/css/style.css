@@ -3669,7 +3669,7 @@ header nav.navbar.white #search-box .form-input :-ms-input-placeholder {
 }
 
 #page-content #news .single-news article span.date {
-  color: #444444;
+  color: black;
   font-family: "Roboto", sans-serif;
   font-size: 14px;
   line-height: 24px;
@@ -7493,6 +7493,10 @@ custom settings
 
 .foot-centre {
   text-align: center;
+}
+
+.blank {
+  height: 30px;
 }
 
 

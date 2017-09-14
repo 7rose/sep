@@ -3764,7 +3764,7 @@ header nav.navbar.white #search-box .form-input :-ms-input-placeholder {
 
 @media screen and (max-width: 991px) {
   #page-content #news .single-news.horizontal-news article .image {
-    padding: 35%;
+    padding: 5%;
     min-height: 200px;
   }
 }

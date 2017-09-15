@@ -3624,11 +3624,11 @@ header nav.navbar.white #search-box .form-input :-ms-input-placeholder {
 }
 
 #page-content #news.text {
-  padding: 50px 25px 0 25px;
+  padding: 10px 5px 0 5px;
 }
 
 #page-content #news .single-news {
-  padding: 0 25px;
+  padding: 0 5px;
 }
 
 @media screen and (max-width: 991px) {
@@ -4589,7 +4589,7 @@ aside.left form .form-input span.form-button {
 }
 
 .content-section .partners {
-  padding: 0 50px;
+  padding: 0 10px;
 }
 
 @media screen and (max-width: 323px) {
